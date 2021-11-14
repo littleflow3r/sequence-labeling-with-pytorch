@@ -1,5 +1,7 @@
 # sequence-labeling-with-pytorch
 
+(Minimal implementation sequence labelling with BI-LSTM and CNN character encoder. implemented using Pytorch and Torchtext)
+
 <b>(1) Prepare the dataset (text, tag), tab separated. The tag column uses IOB format.</b>
 
 example: please see data/sample.train
